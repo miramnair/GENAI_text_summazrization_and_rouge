@@ -1,4 +1,4 @@
-# GENAI_text_summazrization_and_rouge
+# Dialogue Summarization Using Generative AI and ROUGE Score Analysis
 
 # Objective :
 
