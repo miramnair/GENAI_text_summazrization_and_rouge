@@ -4,7 +4,7 @@ https://medium.com/@miramnair/analysis-of-rouge-scores-for-different-dialogue-su
 
 # Objective :
 
-To summarize dialogues using various generative AI models and analyze the results using ROUGE scores.
+To summarize dialogues using various generative AI models and analyze the results using ROUGE scores. Through this project, you’ll gain experience in utilizing LLM models via Bedrock, LangChain OpenAI, and Hugging Face. Additionally, you’ll develop skills in evaluating model performance using ROUGE scores.
 
 # Model Selection :
 
