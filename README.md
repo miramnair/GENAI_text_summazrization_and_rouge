@@ -7,10 +7,14 @@ To summarize dialogues using various generative AI models and analyze the result
 # Model Selection :
 
 Amazon Titan Text Lite accessed through Amazon Bedrock
+
 LangChain gpt-3.5-turbo using Chat Messages
+
 LangChain gpt-3.5-turbo using Promp template
+
 HuggingFace's Flan-T5
-Dataset : https://huggingface.co/datasets/knkarthick/dialogsum
+
+# Dataset : https://huggingface.co/datasets/knkarthick/dialogsum
 
 # Evaluate Using ROUGE Scores : 
 Compute ROUGE scores (ROUGE-1, ROUGE-2, ROUGE-L) for each model's summaries against the reference summaries.
