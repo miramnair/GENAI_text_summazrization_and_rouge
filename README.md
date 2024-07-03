@@ -1,4 +1,4 @@
-# Dialogue Summarization Using Generative AI and ROUGE Score Analysis
+# Dialogue Summarization Using LLM's and ROUGE Score Analysis
 
 # Objective :
 
