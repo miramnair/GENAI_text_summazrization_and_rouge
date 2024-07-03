@@ -1,10 +1,10 @@
 # GENAI_text_summazrization_and_rouge
 
-Objective :
+# Objective :
 
 To summarize dialogues using various generative AI models and analyze the results using ROUGE scores.
 
-Model Selection :
+# Model Selection :
 
 Amazon Titan Text Lite accessed through Amazon Bedrock
 LangChain gpt-3.5-turbo using Chat Messages
@@ -12,7 +12,8 @@ LangChain gpt-3.5-turbo using Promp template
 HuggingFace's Flan-T5
 Dataset : https://huggingface.co/datasets/knkarthick/dialogsum
 
-Evaluate Using ROUGE Scores : Compute ROUGE scores (ROUGE-1, ROUGE-2, ROUGE-L) for each model's summaries against the reference summaries.
+# Evaluate Using ROUGE Scores : 
+Compute ROUGE scores (ROUGE-1, ROUGE-2, ROUGE-L) for each model's summaries against the reference summaries.
 
 
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating the quality of automatic summaries by comparing them to a set of reference summaries (typically human-generated). Here's what each ROUGE metric measures:
